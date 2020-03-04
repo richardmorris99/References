@@ -84,3 +84,6 @@
 
 * Using Ansible to Compile NGINX from Sources with Custom Modules  
   https://medium.com/bigpanda-engineering/using-ansible-to-compile-nginx-from-sources-with-custom-modules-f6e6c6a42493
+
+* Use Ansible's YAML callback plugin for a better CLI experience
+  https://www.jeffgeerling.com/blog/2018/use-ansibles-yaml-callback-plugin-better-cli-experience
