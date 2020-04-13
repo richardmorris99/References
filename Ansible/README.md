@@ -87,3 +87,6 @@
 
 * Use Ansible's YAML callback plugin for a better CLI experience
   https://www.jeffgeerling.com/blog/2018/use-ansibles-yaml-callback-plugin-better-cli-experience
+
+* Jeff Geerling's Ansible Content
+  https://ansible.jeffgeerling.com/
