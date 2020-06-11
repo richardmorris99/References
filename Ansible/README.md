@@ -90,3 +90,6 @@
 
 * Jeff Geerling's Ansible Content  
   https://ansible.jeffgeerling.com/
+
+* Ansible 101 - Episode 10 - Ansible Tower and AWX  
+  https://youtu.be/iKmY4jEiy_A
